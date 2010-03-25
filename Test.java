@@ -3,4 +3,12 @@ public class Test {
     System.out.println("vetev");
     System.out.println("neco navic");
   }
+  public int vypocti(int a, int b){
+    return a*b;
+  }
+  public void echo(){
+    System.out.println("echo");
+  }
+
+
 }
